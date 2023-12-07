@@ -10,8 +10,11 @@
     <toc-element topic="Writerside下载.md"/>
     <toc-element topic="tutorials.md"/>
     <toc-element topic="使用手册.md">
+        <toc-element topic="文档注释.md"/>
         <toc-element topic="常量参数使用方法.md"/>
         <toc-element topic="procedure-step.md"/>
+        <toc-element topic="选项卡（tabs）.md"/>
+        <toc-element topic="提示块（Admonition-blocks）.md"/>
     </toc-element>
     <toc-element topic="preview-build-publish.md">
         <toc-element topic="pbp-customize-footer.md"/>
