@@ -3,12 +3,12 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="w"
-                 name="Writerside"
+                 name="Writerside1"
                  start-page="index.md">
-    <toc-element topic="discover-writerside.md"/>
     <toc-element topic="index.md"/>
-    <toc-element topic="Writerside下载.md"/>
-    <toc-element topic="tutorials.md"/>
+    <toc-element topic="introduction.md">
+        <toc-element topic="Writerside下载.md"/>
+    </toc-element>
     <toc-element topic="使用手册.md">
         <toc-element topic="文档注释.md"/>
         <toc-element topic="常量参数使用方法.md"/>
@@ -33,8 +33,9 @@
         <toc-element topic="issue007.md"/>
         <toc-element topic="issue008.md"/>
     </toc-element>
-    <toc-element topic="starter-topic.md"/>
-    <toc-element topic="demo.md"/>
+    <toc-element topic="demo.md">
+        <toc-element topic="starter-topic.md"/>
+    </toc-element>
     <toc-element topic="23112101.md"/>
     <toc-element topic="about.md"/>
 </instance-profile>

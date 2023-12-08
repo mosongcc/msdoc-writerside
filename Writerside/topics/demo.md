@@ -1,4 +1,9 @@
-# demo
+# 乱七八糟的示例
+
+写此文档时，有些功能还不知道怎么用，会在这里试一下再继续写。
+
+后续内容都是乱七八糟的示例。
+
 
 <chapter title="Example chapter" id="example-chapter-id">
    <p>Some text.</p>

@@ -9,5 +9,13 @@
     <rule id="466ea0e5">
         <description>Created after removal of "自定义页脚" from Writerside</description>
         <accepts>自定义页脚.html</accepts>
+    </rule><rule></rule><rule></rule>
+    <rule id="447873cb">
+        <description>Created after removal of "Writerside教程" from Writerside</description>
+        <accepts>tutorials.html</accepts>
+    </rule>
+    <rule id="4da06b33">
+        <description>Created after removal of "开始使用" from Writerside</description>
+        <accepts>discover-writerside.html</accepts>
     </rule>
 </rules>
