@@ -2,7 +2,7 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="help"
+<instance-profile id="w"
                  name="Writerside"
                  start-page="index.md">
     <toc-element topic="discover-writerside.md"/>
@@ -20,6 +20,8 @@
     </toc-element>
     <toc-element topic="preview-build-publish.md">
         <toc-element topic="pbp-customize-footer.md"/>
+        <toc-element topic="自定义Logo.md"/>
+        <toc-element topic="自定义顶部菜单.md"/>
     </toc-element>
     <toc-element topic="issue.md">
         <toc-element topic="issue001.md"/>
