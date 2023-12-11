@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Build Writerside (w)" type="StardustRunConfiguration" factoryName="save-as-zip">
+    <option name="folderPath" value="$PROJECT_DIR$" />
+    <option name="instanceId" value="w" />
+    <option name="instanceName" value="Writerside" />
+    <method v="2" />
+  </configuration>
+</component>

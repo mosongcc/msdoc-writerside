@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="w"
-                 name="Writerside1"
+                 name="Writerside"
                  start-page="index.md">
     <toc-element topic="index.md"/>
     <toc-element topic="introduction.md">
@@ -15,8 +15,8 @@
         <toc-element topic="procedure-step.md"/>
         <toc-element topic="选项卡（tabs）.md"/>
         <toc-element topic="提示块（Admonition-blocks）.md"/>
-        <toc-element topic="可折叠的块（Collapsible-blocks）.md"/>
-        <toc-element topic="links-and-references.md"/>
+        <toc-element topic="可折叠的块（Collapsible-blocks）.md" hidden="true"/>
+        <toc-element topic="links-and-references.md" hidden="true"/>
     </toc-element>
     <toc-element topic="preview-build-publish.md">
         <toc-element topic="pbp-customize-footer.md"/>
@@ -36,7 +36,7 @@
     </toc-element>
     <toc-element topic="demo.md">
         <toc-element topic="starter-topic.md"/>
-        <toc-element topic="example002.md"/>
+        <toc-element topic="example002.md" hidden="true"/>
     </toc-element>
     <toc-element topic="23112101.md"/>
     <toc-element topic="about.md"/>
