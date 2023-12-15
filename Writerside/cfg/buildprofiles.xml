@@ -1,16 +1,19 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <build-profile instance="w"/>
+    <build-profile instance="w">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
     <variables>
         <primary-color>aqua</primary-color>
         <header-logo>writerside.svg</header-logo>
         <product-web-url>https://writerside.cn</product-web-url>
-        <analytics-body-html-file>icp.html</analytics-body-html-file>
+        <analytics-head-script-file>head-script.html</analytics-head-script-file>
     </variables>
     <footer>
         <copyright>2023-2024 writerside.cn</copyright>
         <icp>沪ICP备19002970号-6</icp>
-        <social type="blog" href="https://blog.mosong.cc">墨松笔记</social>
         <social type="email" href="zengs@mosong.cc">联系邮箱</social>
     </footer>
 </buildprofiles>
